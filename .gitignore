@@ -1,0 +1,11 @@
+.ipynb_checkpoints/
+figs/*
+runs/*
+.DS_Store
+*.pyc
+*.pdf
+*.csv
+*.dta
+*.png
+*.key
+*.zip
